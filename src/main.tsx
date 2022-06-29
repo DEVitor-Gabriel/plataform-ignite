@@ -4,8 +4,13 @@ import App from './App'
 // import './index.css'
 import '../src/styles/global.css'
 
+import { ApolloProvider } from '@apollo/client'
+import { client } from './lib/apollo';
+
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
-    <App />
+    <ApolloProvider client={client}>
+      <App />
+    </ApolloProvider>
   </React.StrictMode>
 )
