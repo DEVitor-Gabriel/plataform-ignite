@@ -4,7 +4,7 @@ Este é um projeto desenvolvido durante o Ignite LAB um evento da rocketseat.
 
 ## 🚀 Começando
 
-Deploy realizado na [Vercel](https://vercel.com/dashboard), link do site online https://feedbacks-widget.vercel.app/ <br>
+Deploy realizado na [Vercel](https://vercel.com/dashboard), link do site online https://plataform-ignite-devitor-gabriel.vercel.app/ <br>
 
 ## 🧪 Tecnologias
 
